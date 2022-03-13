@@ -1,5 +1,5 @@
 # N-Puzzle-Solver
-An N Puzzle solver solver that can:
+An N Puzzle solver that can:
 
 - Enter an opening and get an optimal solution.
 
